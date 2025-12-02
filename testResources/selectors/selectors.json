@@ -1,0 +1,17 @@
+{
+  "login": {
+    "page_header": "h2[class=\"gigya-composite-control gigya-composite-control-header login-heading\"]",
+    "brandLogo": "img[alt=\"Cambridge Logo\"]",
+    "userName_tbox": "input[id^='gigya-loginID-']",
+    "password_tbox": "input[id^='gigya-password-']",
+    "loginPassword_eye": "a[aria-label='Show']",
+    "forgotPassword": "a[title='Forgotten your password?']",
+    "login_btn": "input[value='Log in'], button:has-text('Log in')",
+    "signup_btn": "a[title=\"Don't have an account yet?\"]",
+    "cookie_accept_btn": "a[qid='cookies-2'], button:has-text('Accept All')"
+  },
+   "dashboard": {
+    "header": "header, [role='banner']",
+    "menuButton": "button[aria-label='menu'], [role='menu']"
+  }
+}
